@@ -1,7 +1,7 @@
 [
     {
-        "target": "http://localhost:8080", 
-        "pathRewrite": "/api",
+        "target": "https://api.bridge.io/v2", 
+        "pathRewrite": "/v2",
         "changeOrigin": true
     }
 ]
